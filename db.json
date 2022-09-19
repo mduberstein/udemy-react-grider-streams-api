@@ -11,33 +11,10 @@
       "id": 2
     },
     {
-      "title": "Third Stream Title",
-      "description": "Third Stream Description",
-      "id": 3
-    },
-    {
       "title": "I Created This Stream",
       "description": "This was made by me!",
       "userId": "105886441098644844949",
-      "id": 4
-    },
-    {
-      "title": "Fifth title",
-      "description": "Fifth Description",
-      "userId": "105886441098644844949",
-      "id": 5
-    },
-    {
-      "title": "Unexpected behavior!",
-      "description": "Didn't expect that!",
-      "userId": "105886441098644844949",
-      "id": 6
-    },
-    {
-      "title": "Programmatic Navigation",
-      "description": "Should navigate to the StreamList upon success",
-      "userId": "105886441098644844949",
-      "id": 7
+      "id": 3
     }
   ]
 }
