@@ -26,6 +26,18 @@
       "description": "Fifth Description",
       "userId": "105886441098644844949",
       "id": 5
+    },
+    {
+      "title": "Unexpected behavior!",
+      "description": "Didn't expect that!",
+      "userId": "105886441098644844949",
+      "id": 6
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Should navigate to the StreamList upon success",
+      "userId": "105886441098644844949",
+      "id": 7
     }
   ]
 }
